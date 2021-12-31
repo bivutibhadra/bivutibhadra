@@ -10,9 +10,9 @@ ME Computer Engineering is a 1-year long specialization post-graduate program fo
 
 Skills: VUE JS / REACT / JS / NODE / HTML / CSS /BOOTSTRAP
 
-- 🔭 I’m currently working on ICT-Bangla at web developer 
+- 🔭 I’m currently working on ICT-Banglabd at web developer 
 - 🌱 I’m currently learning JAVASCRIPT 
-- 👯 I’m looking to collaborate on ICT-Bangla LTD. 
+- 👯 I’m looking to collaborate on ICT-Banglabd LTD. 
 - 💬 Ask me about If I’m good, eventually I’ll get the life I deserve 
 - 📫 How to reach me: bivutibhadra@gmail.com 
 - ⚡ Fun fact: I think i am funny man with programmar 
