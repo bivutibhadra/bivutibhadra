@@ -24,7 +24,6 @@ Skills: VUE JS / REACT / JS / NODE / HTML / CSS /BOOTSTRAP
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bivutibhadra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left">
@@ -52,3 +51,7 @@ Skills: VUE JS / REACT / JS / NODE / HTML / CSS /BOOTSTRAP
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bivutibhadra )  
 
 ![Profile views](https://gpvc.arturio.dev/bivutibhadra )  
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bivutibhadra)](https://github.com/anuraghazra/github-readme-stats)
