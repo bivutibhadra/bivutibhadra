@@ -42,7 +42,6 @@ Skills: VUE JS / REACT / JS / NODE / HTML / CSS /BOOTSTRAP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bivutibhadra )](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bivutibhadra &show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bivutibhadra )  
 
